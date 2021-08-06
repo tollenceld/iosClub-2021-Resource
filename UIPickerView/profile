@@ -1,0 +1,3 @@
+platform:ios,'8.0'
+target'UIPickerView'
+pod'Masonry','~>1.1.0'
